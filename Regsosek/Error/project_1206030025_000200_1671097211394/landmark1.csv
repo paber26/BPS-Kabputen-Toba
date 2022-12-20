@@ -1,0 +1,2 @@
+id;server_id_landmark;uuid;id_project;server_id_project;photo;nama;deskripsi;lat;lng;alt;accuracy;bearing;speed;gps_provider;id_landmark_tipe;kode_landmark_tipe;landmark_tipe;kode_kilayah;created_at;is_sent;address_google;address;jumlah;data
+471;77981947;5bd5418a-4d78-4177-96df-76246ea34a64;16;7590109;wl1671097014372.jpeg;16;null;2.33210557;99.0883788;923.71435546875;9.679770469665527;0.0;0.0;gps;279;17020;Keluarga Miskin;1206030025;1666171507000;true;null;null;1;{"nama_kk":"SAKTI SIMANJUNTAK","jumlah_keluarga":"1"};

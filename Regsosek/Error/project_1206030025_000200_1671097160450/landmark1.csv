@@ -1,0 +1,2 @@
+id;server_id_landmark;uuid;id_project;server_id_project;photo;nama;deskripsi;lat;lng;alt;accuracy;bearing;speed;gps_provider;id_landmark_tipe;kode_landmark_tipe;landmark_tipe;kode_kilayah;created_at;is_sent;address_google;address;jumlah;data
+468;78452476;9750f187-a357-410c-9064-e783813adb86;13;7633507;wl1671097012005.jpeg;12;null;2.33206029;99.08771377;929.99951171875;3.7900924682617188;0.0;0.0;gps;279;17020;Keluarga Miskin;1206030025;1666175970000;true;null;null;1;{"nama_kk":"HELDINA SIAGIAN","jumlah_keluarga":"1"};
