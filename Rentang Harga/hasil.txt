@@ -1,0 +1,208 @@
+120607300721003732ASTRID
+120607300721003731  1  1PADI-PADIAN
+120607300721003731  2  2Beras (beras lokal, kualitas unggul, impor)	      Kg	            10000    14000
+120607300721003731  3  3Beras ketan	                                      Kg	            16000    28000
+120607300721003731  4  4Jagung basah degan kulit	                         Kg	            10000    12000
+120607300721003731  5  5Jagung pipilan/beras jagung/jagung titi	          Kg	            60000    80000
+120607300721003731  6  6Tepung terigu	                                    Kg	            11000    15000
+120607300721003731  7  7Padi-padian lainnya	                              Kg
+120607300721003731  8  8UMBI-UMBIAN
+120607300721003731  9  9Ketela pohon/singkong	                            Kg	             3000     5000
+120607300721003731 10 10Ketela rambat/ubi jalar	                          Kg	             3000     5000
+120607300721003731 11 11Sagu (bukan dari ketela pohon)	                   Kg
+120607300721003731 12 12Talas/keladi	                                     Kg	             5000     8000
+120607300721003731 13 13Kentang	                                          Kg	            14000    16000
+120607300721003731 14 14Gaplek	                                           Kg
+120607300721003731 15 15Umbi-umbian lainnya	                              Kg	            10000    12000
+120607300721003731 16 16IKAN
+120607300721003731 17 17Ekor kuning	                                      Kg
+120607300721003731 18 18Tongkol	                                          Kg	            40000    45000
+120607300721003731 19 19Tuna	                                             Kg	            80000    95000
+120607300721003731 20 20Cakalang, dencis	                                 Kg	            38000    50000
+120607300721003731 21 21Tenggiri	                                         Kg
+120607300721003731 22 22Selar	                                            Kg	            40000    60000
+120607300721003731 23 23Kembung, lema/tatare, banyar/banyara	             Kg	            40000    60000
+120607300721003731 24 24Teri basah	                                       Kg
+120607300721003731 25 25Bandeng	                                          Kg
+120607300721003731 26 26Gabus	                                            Kg	            60000    80000
+120607300721003731 27 27Mujair	                                           Kg	            35000    40000
+120607300721003731 28 28Mas	                                              Kg	            40000    50000
+120607300721003731 29 29Nila	                                             Kg
+120607300721003731 30 30Lele	                                             Kg	            27000    30000
+120607300721003731 31 31Kakap	                                            Kg	            60000    80000
+120607300721003731 32 32Baronang	                                         Kg
+120607300721003731 33 33Patin	                                            Kg	            32000    35000
+120607300721003731 34 34Bawal	                                            Kg	            60000    90000
+120607300721003731 35 35Gurame	                                           Kg	            65000    80000
+120607300721003731 36 36Ikan segar/basah lainnya	                         Kg	            40000    65000
+120607300721003731 37 37Udang, lobster	                                   Kg	            90000   100000
+120607300721003731 38 38Cumi-cumi, sotong, gurita	                        Kg	            80000    90000
+120607300721003731 39 39Ketam, kepiting, rajungan	                        Kg	            90000   100000
+120607300721003731 40 40Kerang, siput, bekicot, remis	                    Kg	            80000    90000
+120607300721003731 41 41Udang dan hewan air lainnya yang segar lainnya	   Kg
+120607300721003731 42 42Kembung diawetkan/peda	                           Ons	            7000    10000
+120607300721003731 43 43Tenggiri diawetkan	                               Ons
+120607300721003731 44 44Tongkol/tuna/cakalang diawetkan	                  Ons
+120607300721003731 45 45Teri diawetkan	                                   Ons	           10000    18000
+120607300721003731 46 46Selar diawetkan	                                  Ons
+120607300721003731 47 47Sepat diawetkan	                                  Ons
+120607300721003731 48 48Bandeng diawetkan	                                Ons
+120607300721003731 49 49Gabus diawetkan	                                  Ons
+120607300721003731 50 50Ikan dalam kalengtuna dalam kaleng, dsb)	         Ons	            7000    10000
+120607300721003731 51 51Ikan diawetkan lainnya	                           Ons	            3000     7000
+120607300721003731 52 52Udang diawetkan (ebi, rebon)	                     Ons	            4800     6000
+120607300721003731 53 53Cumi-cumi, sotong, gurita diawetkan	              Ons	           12000    15000
+120607300721003731 54 54Udang dan hewan air lainnya yang diawetkan	       Ons
+120607300721003731 55 55DAGING
+120607300721003731 56 56Daging sapi	                                      Kg	           120000   150000
+120607300721003731 57 57Daging kambing, domba/biri-biri	                  Kg
+120607300721003731 58 58Daging babi	                                      Kg	            80000   100000
+120607300721003731 59 59Daging ayam ras	                                  Kg	            35000    45000
+120607300721003731 60 60Daging ayam kampung	                              Kg	            70000    80000
+120607300721003731 61 61Daging segar lainnya	                             Kg	            45000    60000
+120607300721003731 62 62Daging diawetkan lainnya	                         Kg	            48000    50000
+120607300721003731 63 63Tetelan, sandung lamur	                           Kg
+120607300721003731 64 64Lainnya (hati, jeroan, iga, kaki, buntut, kepala, Kg	            30000    40000
+120607300721003731 65 65TELUR DAN SUSU
+120607300721003731 66 66Telur ayam ras	                                   Butir	          1500     2000
+120607300721003731 67 67Telur ayam kampung	                               Butir	          2500     4000
+120607300721003731 68 68Telur itik/telur itik manila	                     Butir	          2000     3000
+120607300721003731 69 69Telur lainnya (telur puyuh, telur asin mentah maupButir	           500     1000
+120607300721003731 70 70Susu cair pabrik	                                 Kotak kec	      3000     5000
+120607300721003731 71 71Susu kental manis	                                Kaleng	        12000    15000
+120607300721003731 72 72Susu bubuk	                                       Kg	            80000   250000
+120607300721003731 73 73Susu bubuk bayi	                                  Kg	           160000   300000
+120607300721003731 74 74Susu lainnya dan hasil lain dari susu	            	               4000    10000
+120607300721003731 75 75SAYUR-SAYURAN
+120607300721003731 76 76Bayam	                                            Kg	             8000    10000
+120607300721003731 77 77Kangkung	                                         Kg	             7000    10000
+120607300721003731 78 78Kol/kubis	                                        Kg	             5000    10000
+120607300721003731 79 79Sawi putih (petsai)	                              Kg	             5000    10000
+120607300721003731 80 80Sawi hijau	                                       Kg	             7000    10000
+120607300721003731 81 81Buncis	                                           Kg	            12000    15000
+120607300721003731 82 82Kacang panjang	                                   Kg	             8000    10000
+120607300721003731 83 83Tomat sayur, tomat ceri	                          Kg	            10000    15000
+120607300721003731 84 84Wortel	                                           Kg	             5000     7000
+120607300721003731 85 85Mentimun	                                         Kg	             6000     8000
+120607300721003731 86 86Daun ketela pohon/daun singkong	                  Kg	             7000     8000
+120607300721003731 87 87Terong	                                           Kg	             5000     8000
+120607300721003731 88 88Tauge	                                            Kg	            10000    12000
+120607300721003731 89 89Labu, labu siam, labu parang	                     Kg	             3000     5000
+120607300721003731 90 90Bahan sayur sop/capcay/ kimlo (paket)	            Bungkus	        5000     8000
+120607300721003731 91 91Bahan sayur asam/lodeh (paket)	                   Bungkus
+120607300721003731 92 92Nangka muda	                                      Kg	             9000    10000
+120607300721003731 93 93Pepaya muda	                                      Kg
+120607300721003731 94 94Jengkol	                                          Kg	            10000    15000
+120607300721003731 95 95Bawang merah	                                     Ons	            2800     3500
+120607300721003731 96 96Bawang putih	                                     Ons	            2500     3000
+120607300721003731 97 97Bawang bombay	                                    Ons	            2000     3000
+120607300721003731 98 98Cabe merah	                                       Kg	            35000    45000
+120607300721003731 99 99Cabe hijau	                                       Kg	            25000    28000
+120607300721003731100100Cabe rawit	                                       Kg	            30000    40000
+120607300721003731101101Sayur-sayuran lainnya	                            Kg	             8000   100000
+120607300721003731102102KACANG-KACANGAN
+120607300721003731103103Kacang tanah tanpa kulit	                         Kg	            40000    50000
+120607300721003731104104Kacang kedelai	                                   Kg
+120607300721003731105105Kacang lainnya	                                   Kg	            20000    25000
+120607300721003731106106Tahu	                                             Kg	            10000    50000
+120607300721003731107107Tempe	                                            Kg	            10000    35000
+120607300721003731108108Oncom	                                            Ons
+120607300721003731109109Hasil lain dari kacang-kacangan	                  Ons	            2000     3000
+120607300721003731110110BUAH-BUAHAN
+120607300721003731111111Jeruk, jeruk bali	                                Kg	            10000    25000
+120607300721003731112112Mangga	                                           Kg	            20000    35000
+120607300721003731113113Apel	                                             Kg	            30000    40000
+120607300721003731114114Rambutan	                                         Kg	            25000    30000
+120607300721003731115115Duku, langsat	                                    Kg	            15000    25000
+120607300721003731116116Durian	                                           Kg	            10000    20000
+120607300721003731117117Salak	                                            Kg	             8000    20000
+120607300721003731118118Pisang ambon	                                     Kg
+120607300721003731119119Pisang lainnya	                                   Kg	             6000    15000
+120607300721003731120120Pepaya	                                           Kg	             8000    12000
+120607300721003731121121Semangka	                                         Kg	            12000    20000
+120607300721003731122122Tomat buah	                                       Kg	             8000    12000
+120607300721003731123123Alpokat	                                          Kg	            10000    15000
+120607300721003731124124Jambu Biji	                                       Kg	            13000    15000
+120607300721003731125125Buah-buahan lainnya	                              Kg	             8000   140000
+120607300721003731126126MINYAK DAN KELAPA
+120607300721003731127127Minyak kelapa	                                    Liter
+120607300721003731128128Minyak goreng  (kelapa sawit, bunga matahari)	    Liter	         15000    18000
+120607300721003731129129Kelapa	                                           Butir	          5000    10000
+120607300721003731130130Minyak dan kelapa lainnya
+120607300721003731131131BAHAN MINUMAN
+120607300721003731132132Gula pasir	                                       Ons	            1400     1800
+120607300721003731133133Gula merah, gula air (pohon aren, kelapa, lontar)	Ons	            1800     2800
+120607300721003731134134Teh bubuk	                                        Ons	            6000     8000
+120607300721003731135135Teh celup (sachet)	                               2 gr	            300      500
+120607300721003731136136Kopi (bubuk, biji)	                               Ons	            2000    10000
+120607300721003731137137Kopi instan (sachet)	                             20 gr	          1200     2000
+120607300721003731138138Bahan minuman lainnya	                            	              19000    22000
+120607300721003731139139BUMBU-BUMBUAN
+120607300721003731140140Garam	                                            Gram	             10      100
+120607300721003731141141Kemiri	                                           Gram	            480      500
+120607300721003731142142Ketumbar/jinten	                                  Gram	            400     1200
+120607300721003731143143Merica/lada	                                      Gram	            330     1200
+120607300721003731144144Jahe	                                             Gram	            100      250
+120607300721003731145145Kunyit	                                           Gran	            120      200
+120607300721003731146146Asam	                                             Gram	             30      100
+120607300721003731147147Terasi/petis	                                     Gram	            500     1000
+120607300721003731148148Kecap	                                            100 ml	         6500     8000
+120607300721003731149149Penyedap masakan/vetsin	                          Gram	            100      500
+120607300721003731150150Sambal jadi	                                      100 ml	         6500     8000
+120607300721003731151151Saus tomat	                                       100 ml	         6500     8000
+120607300721003731152152Bumbu maskan jadi/kemasan, bumbu racikan	         Gram	            300     1000
+120607300721003731153153Bumbu dapur lainnya (kencur, pala, kapulaga, dsb)	Gram	             80     2200
+120607300721003731154154KONSUMSI LAINNYA
+120607300721003731155155Mie instan	                                       Bungkus	        2500    25000
+120607300721003731156156Kerupuk	                                          Ons	            2400     4000
+120607300721003731157157Bubur bayi kemasan	                               Kotak kec	     20000    40000
+120607300721003731158158Lainnya	                                          .........	     14000    20000
+120607300721003731159159MAKANAN DAN MINUMAN JADI
+120607300721003731160160Roti tawar	                                       Potong	          500     1000
+120607300721003731161161Roti manis, roti lainnya	                         Potong	         1000    12000
+120607300721003731162162Kue kering, biskuit, semprong	                    Ons	            3000    20000
+120607300721003731163163Kue basah (kue lapis, bika ambon, lemper, dsb)	   Buah	           1000    10000
+120607300721003731164164Makanan gorengan (tahu, tempe, bakwan, pisang)	   Potong	         1000     2000
+120607300721003731165165Makanan gorengan	                                 Potong	         1000     5000
+120607300721003731166166Bubur kacang hijau	                               Porsi	          5000    10000
+120607300721003731167167Gado-gado, ketoprak, pecel	                       Porsi	         10000    20000
+120607300721003731168168Nasi campur/rames	                                Porsi	         10000    45000
+120607300721003731169169Nasi goreng	                                      Porsi	         15000    45000
+120607300721003731170170Nasi putih	                                       Porsi	          5000     7000
+120607300721003731171171Lontong/ketupat sayur	                            Porsi	         10000    15000
+120607300721003731172172Soto, gule, sop, rawon, cincang	                  Porsi	         15000    25000
+120607300721003731173173Sayur matang (ditumis, disantan, dsb)	            Porsi	          5000    45000
+120607300721003731174174Sate, tongseng	                                   Porsi	         10000    20000
+120607300721003731175175Mie bakso, mie rebus, mie goreng	                 Porsi	         15000    22000
+120607300721003731176176Mie instan	                                       Porsi	         10000    15000
+120607300721003731177177Makanan ringan anak-anak, krupuk/kripik	          Ons	            4000    40000
+120607300721003731178178Ikan matang	                                      Potong	         7000    25000
+120607300721003731179179Ayam/daging matang (ayam goreng, rendang, dsb)	   Potong	        10000    25000
+120607300721003731180180Daging olahan matang (sosis. nugget, daging asap, Potong	         2000    15000
+120607300721003731181181Bubur ayam	                                       Porsi	         12000    25000
+120607300721003731182182Siomay, batagor	                                  Porsi	         10000    25000
+120607300721003731183183Makanan jadi lainnya	                             	              10000   100000
+120607300721003731184184Air kemasan	                                      Liter	          2000    20000
+120607300721003731185185Air kemasan galon	                                Galon	          5000    27000
+120607300721003731186186Air teh kemasan	                                  250 ml	         2000    10000
+120607300721003731187187Sari buah kemasan	                                200 ml	         2000    20000
+120607300721003731188188Minuman jadi (kopi, kopi susu, teh, susu coklat, dGelas	          3000    35000
+120607300721003731189189Es krim	                                          Mangkok k	      3000    10000
+120607300721003731190190Es lainnya	                                       Porsi	          5000   100000
+120607300721003731191191Minuman keras lainnya	                            Liter	         12000   999999
+120607300721003731192192ROKOK DAN TEMBAKAU
+120607300721003731193193Rokok kretek filter	                              Batang	          500     2500
+120607300721003731194194Rokok kretek tanpa filter	                        Batang	          850     2500
+120607300721003731195195Rokok putih	                                      Batang	          850     3750
+120607300721003731196196Tembakau	                                         Ons	           15000   100000
+120607300721003731197197Rokok dan tembakau lainnya	                       .........	       300   100000
+120607300721003731198201A. Nilai kontrak sebulan	                         bulan
+120607300721003731199202A. Nilai sewa sebulan	                            bulan	        500000   999999
+120607300721003731200206Harga Listrik	                                    Kwh	          500000   999999
+120607300721003731201208Harga Air PAM	                                    M3	             1300     2300
+120607300721003731202216Harga Bensin	                                     Liter	          3000     5000
+120607300721003731203218Harga Solar	                                      Liter	         10000    14000
+120607300721003731204222Harga Minyak pelumas	                             Liter	         68000    18000
+120607300721003731205225Harga LPG	                                        Kg	            45000   150000
+120607300721003731206227Harga Gas kota	                                   M3	             6000    18000
+120607300721003731207229Harga Minyak tanah	                               Liter

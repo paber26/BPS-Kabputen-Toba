@@ -1,0 +1,208 @@
+120607300721003732TIGOR
+120607300721003731  1  1PADI-PADIAN
+120607300721003731  2  2Beras (beras lokal, kualitas unggul, impor)	      Kg	        100000000200000000
+120607300721003731  3  3Beras ketan	                                      Kg	                0        1
+120607300721003731  4  4Jagung basah degan kulit	                         Kg	                0        1
+120607300721003731  5  5Jagung pipilan/beras jagung/jagung titi	          Kg	                0        1
+120607300721003731  6  6Tepung terigu	                                    Kg	                0        1
+120607300721003731  7  7Padi-padian lainnya	                              Kg	                0        1
+120607300721003731  8  8UMBI-UMBIAN
+120607300721003731  9  9Ketela pohon/singkong	                            Kg	                0        1
+120607300721003731 10 10Ketela rambat/ubi jalar	                          Kg	                0        1
+120607300721003731 11 11Sagu (bukan dari ketela pohon)	                   Kg	                0        1
+120607300721003731 12 12Talas/keladi	                                     Kg	                0        1
+120607300721003731 13 13Kentang	                                          Kg	                0        1
+120607300721003731 14 14Gaplek	                                           Kg	                0        1
+120607300721003731 15 15Umbi-umbian lainnya	                              Kg	                0        1
+120607300721003731 16 16IKAN
+120607300721003731 17 17Ekor kuning	                                      Kg	                0        1
+120607300721003731 18 18Tongkol	                                          Kg	                0        1
+120607300721003731 19 19Tuna	                                             Kg	                0        1
+120607300721003731 20 20Cakalang, dencis	                                 Kg	                0        1
+120607300721003731 21 21Tenggiri	                                         Kg	                0        1
+120607300721003731 22 22Selar	                                            Kg	                0        1
+120607300721003731 23 23Kembung, lema/tatare, banyar/banyara	             Kg	                0        1
+120607300721003731 24 24Teri basah	                                       Kg	                0        1
+120607300721003731 25 25Bandeng	                                          Kg	                0        1
+120607300721003731 26 26Gabus	                                            Kg	                0        1
+120607300721003731 27 27Mujair	                                           Kg	                0        1
+120607300721003731 28 28Mas	                                              Kg	                0        1
+120607300721003731 29 29Nila	                                             Kg	                0        1
+120607300721003731 30 30Lele	                                             Kg	                0        1
+120607300721003731 31 31Kakap	                                            Kg	                0        1
+120607300721003731 32 32Baronang	                                         Kg	                0        1
+120607300721003731 33 33Patin	                                            Kg	                0        1
+120607300721003731 34 34Bawal	                                            Kg	                0        1
+120607300721003731 35 35Gurame	                                           Kg	                0        1
+120607300721003731 36 36Ikan segar/basah lainnya	                         Kg	                0        1
+120607300721003731 37 37Udang, lobster	                                   Kg	                0        1
+120607300721003731 38 38Cumi-cumi, sotong, gurita	                        Kg	                0        1
+120607300721003731 39 39Ketam, kepiting, rajungan	                        Kg	                0        1
+120607300721003731 40 40Kerang, siput, bekicot, remis	                    Kg	                0        1
+120607300721003731 41 41Udang dan hewan air lainnya yang segar lainnya	   Kg	                0        1
+120607300721003731 42 42Kembung diawetkan/peda	                           Ons	               0        1
+120607300721003731 43 43Tenggiri diawetkan	                               Ons	               0        1
+120607300721003731 44 44Tongkol/tuna/cakalang diawetkan	                  Ons	               0        1
+120607300721003731 45 45Teri diawetkan	                                   Ons	               0        1
+120607300721003731 46 46Selar diawetkan	                                  Ons	               0        1
+120607300721003731 47 47Sepat diawetkan	                                  Ons	               0        1
+120607300721003731 48 48Bandeng diawetkan	                                Ons	               0        1
+120607300721003731 49 49Gabus diawetkan	                                  Ons	               0        1
+120607300721003731 50 50Ikan dalam kalengtuna dalam kaleng, dsb)	         Ons	               0        1
+120607300721003731 51 51Ikan diawetkan lainnya	                           Ons	               0        1
+120607300721003731 52 52Udang diawetkan (ebi, rebon)	                     Ons	               0        1
+120607300721003731 53 53Cumi-cumi, sotong, gurita diawetkan	              Ons	               0        1
+120607300721003731 54 54Udang dan hewan air lainnya yang diawetkan	       Ons	               0        1
+120607300721003731 55 55DAGING
+120607300721003731 56 56Daging sapi	                                      Kg	                0        1
+120607300721003731 57 57Daging kambing, domba/biri-biri	                  Kg	                0        1
+120607300721003731 58 58Daging babi	                                      Kg	                0        1
+120607300721003731 59 59Daging ayam ras	                                  Kg	                0        1
+120607300721003731 60 60Daging ayam kampung	                              Kg	                0        1
+120607300721003731 61 61Daging segar lainnya	                             Kg	                0        1
+120607300721003731 62 62Daging diawetkan lainnya	                         Kg	                0        1
+120607300721003731 63 63Tetelan, sandung lamur	                           Kg	                0        1
+120607300721003731 64 64Lainnya (hati, jeroan, iga, kaki, buntut, kepala, Kg	                0        1
+120607300721003731 65 65TELUR DAN SUSU
+120607300721003731 66 66Telur ayam ras	                                   Butir	             0        1
+120607300721003731 67 67Telur ayam kampung	                               Butir	             0        1
+120607300721003731 68 68Telur itik/telur itik manila	                     Butir	             0        1
+120607300721003731 69 69Telur lainnya (telur puyuh, telur asin mentah maupButir	             0        1
+120607300721003731 70 70Susu cair pabrik	                                 Kotak kec	         0        1
+120607300721003731 71 71Susu kental manis	                                Kaleng	            0        1
+120607300721003731 72 72Susu bubuk	                                       Kg	                0        1
+120607300721003731 73 73Susu bubuk bayi	                                  Kg	                0        1
+120607300721003731 74 74Susu lainnya dan hasil lain dari susu	            	                  0        1
+120607300721003731 75 75SAYUR-SAYURAN
+120607300721003731 76 76Bayam	                                            Kg	                0        1
+120607300721003731 77 77Kangkung	                                         Kg	                0        1
+120607300721003731 78 78Kol/kubis	                                        Kg	                0        1
+120607300721003731 79 79Sawi putih (petsai)	                              Kg	                0        1
+120607300721003731 80 80Sawi hijau	                                       Kg	                0        1
+120607300721003731 81 81Buncis	                                           Kg	                0        1
+120607300721003731 82 82Kacang panjang	                                   Kg	                0        1
+120607300721003731 83 83Tomat sayur, tomat ceri	                          Kg	                0        1
+120607300721003731 84 84Wortel	                                           Kg	                0        1
+120607300721003731 85 85Mentimun	                                         Kg	                0        1
+120607300721003731 86 86Daun ketela pohon/daun singkong	                  Kg	                0        1
+120607300721003731 87 87Terong	                                           Kg	                0        1
+120607300721003731 88 88Tauge	                                            Kg	                0        1
+120607300721003731 89 89Labu, labu siam, labu parang	                     Kg	                0        1
+120607300721003731 90 90Bahan sayur sop/capcay/ kimlo (paket)	            Bungkus	           0        1
+120607300721003731 91 91Bahan sayur asam/lodeh (paket)	                   Bungkus	           0        1
+120607300721003731 92 92Nangka muda	                                      Kg	                0        1
+120607300721003731 93 93Pepaya muda	                                      Kg	                0        1
+120607300721003731 94 94Jengkol	                                          Kg	                0        1
+120607300721003731 95 95Bawang merah	                                     Ons	               0        1
+120607300721003731 96 96Bawang putih	                                     Ons	               0        1
+120607300721003731 97 97Bawang bombay	                                    Ons	               0        1
+120607300721003731 98 98Cabe merah	                                       Kg	                0        1
+120607300721003731 99 99Cabe hijau	                                       Kg	                0        1
+120607300721003731100100Cabe rawit	                                       Kg	                0        1
+120607300721003731101101Sayur-sayuran lainnya	                            Kg	                0        1
+120607300721003731102102KACANG-KACANGAN
+120607300721003731103103Kacang tanah tanpa kulit	                         Kg	                0        1
+120607300721003731104104Kacang kedelai	                                   Kg	                0        1
+120607300721003731105105Kacang lainnya	                                   Kg	                0        1
+120607300721003731106106Tahu	                                             Kg	                0        1
+120607300721003731107107Tempe	                                            Kg	                0        1
+120607300721003731108108Oncom	                                            Ons	               0        1
+120607300721003731109109Hasil lain dari kacang-kacangan	                  Ons	               0        1
+120607300721003731110110BUAH-BUAHAN
+120607300721003731111111Jeruk, jeruk bali	                                Kg	                0        1
+120607300721003731112112Mangga	                                           Kg	                0        1
+120607300721003731113113Apel	                                             Kg	                0        1
+120607300721003731114114Rambutan	                                         Kg	                0        1
+120607300721003731115115Duku, langsat	                                    Kg	                0        1
+120607300721003731116116Durian	                                           Kg	                0        1
+120607300721003731117117Salak	                                            Kg	                0        1
+120607300721003731118118Pisang ambon	                                     Kg	                0        1
+120607300721003731119119Pisang lainnya	                                   Kg	                0        1
+120607300721003731120120Pepaya	                                           Kg	                0        1
+120607300721003731121121Semangka	                                         Kg	                0        1
+120607300721003731122122Tomat buah	                                       Kg	                0        1
+120607300721003731123123Alpokat	                                          Kg	                0        1
+120607300721003731124124Jambu Biji	                                       Kg	                0        1
+120607300721003731125125Buah-buahan lainnya	                              Kg	                0        1
+120607300721003731126126MINYAK DAN KELAPA
+120607300721003731127127Minyak kelapa	                                    Liter	             0        1
+120607300721003731128128Minyak goreng  (kelapa sawit, bunga matahari)	    Liter	             0        1
+120607300721003731129129Kelapa	                                           Butir	             0        1
+120607300721003731130130Minyak dan kelapa lainnya	                        	                  0        1
+120607300721003731131131BAHAN MINUMAN
+120607300721003731132132Gula pasir	                                       Ons	               0        1
+120607300721003731133133Gula merah, gula air (pohon aren, kelapa, lontar)	Ons	               0        1
+120607300721003731134134Teh bubuk	                                        Ons	               0        1
+120607300721003731135135Teh celup (sachet)	                               2 gr	              0        1
+120607300721003731136136Kopi (bubuk, biji)	                               Ons	               0        1
+120607300721003731137137Kopi instan (sachet)	                             20 gr	             0        1
+120607300721003731138138Bahan minuman lainnya	                            	                  0        1
+120607300721003731139139BUMBU-BUMBUAN
+120607300721003731140140Garam	                                            Gram	              0        1
+120607300721003731141141Kemiri	                                           Gram	              0        1
+120607300721003731142142Ketumbar/jinten	                                  Gram	              0        1
+120607300721003731143143Merica/lada	                                      Gram	              0        1
+120607300721003731144144Jahe	                                             Gram	              0        1
+120607300721003731145145Kunyit	                                           Gran	              0        1
+120607300721003731146146Asam	                                             Gram	              0        1
+120607300721003731147147Terasi/petis	                                     Gram	              0        1
+120607300721003731148148Kecap	                                            100 ml	            0        1
+120607300721003731149149Penyedap masakan/vetsin	                          Gram	              0        1
+120607300721003731150150Sambal jadi	                                      100 ml	            0        1
+120607300721003731151151Saus tomat	                                       100 ml	            0        1
+120607300721003731152152Bumbu maskan jadi/kemasan, bumbu racikan	         Gram	              0        1
+120607300721003731153153Bumbu dapur lainnya (kencur, pala, kapulaga, dsb)	Gram	              0        1
+120607300721003731154154KONSUMSI LAINNYA
+120607300721003731155155Mie instan	                                       Bungkus	           0        1
+120607300721003731156156Kerupuk	                                          Ons	               0        1
+120607300721003731157157Bubur bayi kemasan	                               Kotak kec	         0        1
+120607300721003731158158Lainnya	                                          .........	         0        1
+120607300721003731159159MAKANAN DAN MINUMAN JADI
+120607300721003731160160Roti tawar	                                       Potong	            0        1
+120607300721003731161161Roti manis, roti lainnya	                         Potong	            0        1
+120607300721003731162162Kue kering, biskuit, semprong	                    Ons	               0        1
+120607300721003731163163Kue basah (kue lapis, bika ambon, lemper, dsb)	   Buah	              0        1
+120607300721003731164164Makanan gorengan (tahu, tempe, bakwan, pisang)	   Potong	            0        1
+120607300721003731165165Makanan gorengan	                                 Potong	            0        1
+120607300721003731166166Bubur kacang hijau	                               Porsi	             0        1
+120607300721003731167167Gado-gado, ketoprak, pecel	                       Porsi	             0        1
+120607300721003731168168Nasi campur/rames	                                Porsi	             0        1
+120607300721003731169169Nasi goreng	                                      Porsi	             0        1
+120607300721003731170170Nasi putih	                                       Porsi	             0        1
+120607300721003731171171Lontong/ketupat sayur	                            Porsi	             0        1
+120607300721003731172172Soto, gule, sop, rawon, cincang	                  Porsi	             0        1
+120607300721003731173173Sayur matang (ditumis, disantan, dsb)	            Porsi	             0        1
+120607300721003731174174Sate, tongseng	                                   Porsi	             0        1
+120607300721003731175175Mie bakso, mie rebus, mie goreng	                 Porsi	             0        1
+120607300721003731176176Mie instan	                                       Porsi	             0        1
+120607300721003731177177Makanan ringan anak-anak, krupuk/kripik	          Ons	               0        1
+120607300721003731178178Ikan matang	                                      Potong	            0        1
+120607300721003731179179Ayam/daging matang (ayam goreng, rendang, dsb)	   Potong	            0        1
+120607300721003731180180Daging olahan matang (sosis. nugget, daging asap, Potong	            0        1
+120607300721003731181181Bubur ayam	                                       Porsi	             0        1
+120607300721003731182182Siomay, batagor	                                  Porsi	             0        1
+120607300721003731183183Makanan jadi lainnya	                             	                  0        1
+120607300721003731184184Air kemasan	                                      Liter	             0        1
+120607300721003731185185Air kemasan galon	                                Galon	             0        1
+120607300721003731186186Air teh kemasan	                                  250 ml	            0        1
+120607300721003731187187Sari buah kemasan	                                200 ml	            0        1
+120607300721003731188188Minuman jadi (kopi, kopi susu, teh, susu coklat, dGelas	             0        1
+120607300721003731189189Es krim	                                          Mangkok k	         0        1
+120607300721003731190190Es lainnya	                                       Porsi	             0        1
+120607300721003731191191Minuman keras lainnya	                            Liter	             0        1
+120607300721003731192192ROKOK DAN TEMBAKAU
+120607300721003731193193Rokok kretek filter	                              Batang	            0        1
+120607300721003731194194Rokok kretek tanpa filter	                        Batang	            0        1
+120607300721003731195195Rokok putih	                                      Batang	            0        1
+120607300721003731196196Tembakau	                                         Ons	               0        1
+120607300721003731197197Rokok dan tembakau lainnya	                       .........	         0        1
+120607300721003731198201A. Nilai kontrak sebulan	                         bulan	             0        1
+120607300721003731199202A. Nilai sewa sebulan	                            bulan	             0        1
+120607300721003731200206Harga Listrik	                                    Kwh	               0        1
+120607300721003731201208Harga Air PAM	                                    M3	                0        1
+120607300721003731202216Harga Bensin	                                     Liter	             0        1
+120607300721003731203218Harga Solar	                                      Liter	             0        1
+120607300721003731204222Harga Minyak pelumas	                             Liter	             0        1
+120607300721003731205225Harga LPG	                                        Kg	                0        1
+120607300721003731206227Harga Gas kota	                                   M3	                0        1
+120607300721003731207229Harga Minyak tanah	                               Liter	             0        1

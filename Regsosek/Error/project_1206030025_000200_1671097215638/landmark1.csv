@@ -1,2 +1,0 @@
-id;server_id_landmark;uuid;id_project;server_id_project;photo;nama;deskripsi;lat;lng;alt;accuracy;bearing;speed;gps_provider;id_landmark_tipe;kode_landmark_tipe;landmark_tipe;kode_kilayah;created_at;is_sent;address_google;address;jumlah;data
-472;77795803;a675736a-4c77-454f-a2eb-ed7de9ff5e89;17;7569076;wl1671097015218.jpeg;14;null;2.33200693;99.08815411;916.527587890625;4.85047721862793;0.0;0.0;gps;279;17020;Keluarga Miskin;1206030025;1666169812000;true;null;null;1;{"nama_kk":"JOEL PANGGABEAN","jumlah_keluarga":"1"};

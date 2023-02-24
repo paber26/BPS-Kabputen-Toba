@@ -1,2 +1,0 @@
-id;server_id_landmark;uuid;id_project;server_id_project;photo;nama;deskripsi;lat;lng;alt;accuracy;bearing;speed;gps_provider;id_landmark_tipe;kode_landmark_tipe;landmark_tipe;kode_kilayah;created_at;is_sent;address_google;address;jumlah;data
-470;78103225;7efc0a4f-61d7-49c4-aa33-67ae870187ed;15;7603495;wl1671097027874.jpeg;15;null;2.3320873;99.0881943;919.3201904296875;11.657069206237793;0.0;0.0;gps;279;17020;Keluarga Miskin;1206030025;1666172604000;true;null;null;1;{"nama_kk":"BERLIANA HUTAGAOL","jumlah_keluarga":"1"};

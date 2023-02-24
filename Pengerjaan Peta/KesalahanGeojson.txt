@@ -1,6 +1,0 @@
-Periksa kembali penulisan kdprov, kdkab, kdkec, kddesa di sbs: 1206050014000600, dengan nama: 86
-Periksa kembali penulisan kdprov, kdkab, kdkec, kddesa di sbs: 1206052001000200, dengan nama: 4A
-Periksa kembali penulisan kdprov, kdkab, kdkec, kddesa di sbs: 1206061003000100, dengan nama: 55
-Periksa kembali penulisan kdprov, kdkab, kdkec, kddesa di sbs: 1206070012000200, dengan nama: 17
-Periksa kembali penulisan nama 17B-62 di idsbs: 1206072009000300, dengan nama: 17B-62(Format penulisan campuran angka dan angka huruf tidak bisa dipisahkan dengan dash/- solusi pisahkan dengan koma/, , dash hanya memisahkan angka huruf saja atau angka saja contoh: 1a-1d atau 1-8. penulisan 11-11b tidak diizinkan)
-Periksa kembali penulisan kdprov, kdkab, kdkec, kddesa di sbs: 1206080002000300, dengan nama: 14

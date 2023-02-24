@@ -1,2 +1,0 @@
-id;server_id_landmark;uuid;id_project;server_id_project;photo;nama;deskripsi;lat;lng;alt;accuracy;bearing;speed;gps_provider;id_landmark_tipe;kode_landmark_tipe;landmark_tipe;kode_kilayah;created_at;is_sent;address_google;address;jumlah;data
-469;78266488;251e8ac9-db0c-412d-8376-6f43c0aa13ad;14;7618054;wl1671097012944.jpeg;17;null;2.33210104;99.08817573;906.435546875;4.122560977935791;0.0;0.0;gps;279;17020;Keluarga Miskin;1206030025;1666174166000;true;null;null;1;{"nama_kk":"RAMOT MAROJAHAN SIMANJUNTAK","jumlah_keluarga":"1"};
